@@ -62,13 +62,12 @@
     max-width: 1140px;
     margin: 0 auto;
 }
-#banner{
-    margin-bottom: 120px;
-}
+
 #banner .hero-part{
     display: flex;
     justify-content:space-between;
     margin-top: 47px;
+    
     align-items: center;
 }
 
@@ -99,6 +98,12 @@
 }
 
 .hero-part .img-part{
-    vertical-align: top;
+    width: 450px;
+}
+
+.hero-part .img-part img{
+        height: 650px;
+        width: auto;
+        
 }
 
