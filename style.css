@@ -117,7 +117,7 @@
 }
 
 .contact-me{
-    padding: 100px;
+    padding: 120px;
 }
 
 .contact-me .about-me{
@@ -139,4 +139,29 @@
 .info-part{
     display: flex;
     justify-content: space-around;
+}
+.something{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.something .do-anything{
+    padding: 70px;
+}
+.something .do-anything h3{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.something .do-anything p{
+    width: 825px;
+    margin-top: 30px;
+    font: 18px;
+    line-height: 30px;
+    margin: 0 auto;
+    text-align: center;
+    
 }
