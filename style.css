@@ -107,3 +107,36 @@
         
 }
 
+.contact-part{
+     width: 71%;
+     max-width: 1140px;
+     margin: 0 auto;
+     background-color: #FFF8F3;
+     text-align: center;
+     margin-top: 70px;
+}
+
+.contact-me{
+    padding: 100px;
+}
+
+.contact-me .about-me{
+    width: 800px;
+    margin: 0 auto;
+}
+.contact-me .about-me h2{
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.contact-me .about-me p{
+    color: #757575;
+    line-height: 30px;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+.info-part{
+    display: flex;
+    justify-content: space-around;
+}
